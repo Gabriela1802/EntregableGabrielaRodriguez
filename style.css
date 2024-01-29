@@ -13,3 +13,6 @@ img {
     width: 350px;
     height: auto;
 }
+ol {
+    list-style-type: lower-greek;
+}
